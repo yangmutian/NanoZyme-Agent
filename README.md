@@ -3,7 +3,7 @@
 ![demo](https://github.com/user-attachments/assets/d91a9389-205b-4e51-959f-b0a069131fef)
 
 
-# NZ-A
+# NanoZyme-Agent
 
 [![Python Version](https://img.shields.io/badge/python-3.12-orange)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-Apache--2.0-blue)](https://opensource.org/licenses/Apache-2.0)
