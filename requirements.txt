@@ -1,0 +1,13 @@
+langchain==0.3.21
+openai==1.69.0
+pandas==2.2.2
+flask==3.0.3
+pymatgen==2024.8.9
+maintainer==0.9.2
+scikit-learn==1.5.1
+numpy==1.26.4
+pyPDF2==3.0.1
+catboost==1.2.5
+tqdm==4.66.4
+matminer==0.9.0
+shap==0.44.0
