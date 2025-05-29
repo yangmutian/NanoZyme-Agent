@@ -1,6 +1,6 @@
 
 
-![github](https://github.com/user-attachments/assets/15e392bd-66a1-4609-bc75-65f4596be8af)
+![demo](https://github.com/user-attachments/assets/d91a9389-205b-4e51-959f-b0a069131fef)
 
 
 # NZ-A
@@ -21,7 +21,7 @@ Using NZ-A, researchers successfully identify six unreported rare earth-based PO
 
 We are developing an ​​online demo​​ for researchers ​​without any programming expertise​​. The current interface is shown below, and the ​​web service​​ will be released during the peer-review process.
 
-https://github.com/user-attachments/assets/7b9c4440-241b-450e-a2f9-deec63cc9f94
+https://github.com/user-attachments/assets/4f8671ae-79b1-480a-ac6f-88248a464970
 
 ## :package: Installation
 
